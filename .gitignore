@@ -1,0 +1,7 @@
+build
+dist
+abstract_python_phone_validation.egg-info
+**/__pycache__
+dev_test.py
+.vscode
+*.history
