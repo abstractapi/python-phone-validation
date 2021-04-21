@@ -16,7 +16,7 @@ requirements = required
 
 setup(
     name='abstract_python_phone_validation',
-    version='0.1.0',
+    version='1.0.0',
     author='Benjamin Bouchet',
     author_email='libraries@abstractapi.com',
     description="AbstractPhoneValidation - Wrapper to quickly start using the powerful AbstractAPI's Phone Validation service in your projects.",
